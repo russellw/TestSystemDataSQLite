@@ -30,3 +30,16 @@ System.Security.Permissions.4.7.0
 System.Security.Principal.Windows.4.7.0
 System.Windows.Extensions.4.7.0
 ```
+
+## Results
+
+```
+Time to insert 1000000 records: 11153 ms
+Time to read 1000000 records: 361 ms
+
+Time to insert 1000000 records: 11878 ms
+Time to read 1000000 records: 461 ms
+
+Time to insert 1000000 records: 11193 ms
+Time to read 1000000 records: 350 ms
+```
